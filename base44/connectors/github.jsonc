@@ -1,0 +1,14 @@
+{
+  "type": "github",
+  "scopes": [
+    "public_repo",
+    "repo",
+    "repo:status",
+    "repo_deployment",
+    "user:email",
+    "repo:invite",
+    "read:org",
+    "read:user",
+    "admin:repo_hook"
+  ]
+}
